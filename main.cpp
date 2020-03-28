@@ -132,6 +132,8 @@ int main() {
 
     cout << "Hello World!" << endl;
 
+    cout << "Hello from other side!" << endl;
+
 
     return 0;
 }
