@@ -135,5 +135,7 @@ int main() {
     cout << "Hello from other side!" << endl;
 
     cout << "Whispers.." << endl;
+
+    cout << "From Canada.." << endl;
     return 0;
 }
