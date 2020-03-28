@@ -130,12 +130,5 @@ int main() {
     lVE1->travel(1000,200);
     lVE1->travel(800,100);
 
-    cout << "Hello World!" << endl;
-
-    cout << "Hello from other side!" << endl;
-
-    cout << "Whispers.." << endl;
-
-    cout << "From Canada.." << endl;
     return 0;
 }
