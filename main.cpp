@@ -130,6 +130,8 @@ int main() {
     lVE1->travel(1000,200);
     lVE1->travel(800,100);
 
+    cout << "Hello World!" << endl;
+
 
     return 0;
 }
